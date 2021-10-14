@@ -28,6 +28,19 @@ app.get('/drinks', (req, res) => {
 });
 
 
+
+app.get('/ingredients', (req, res) => {
+  console.log('req-->', req);
+  apiFn.getIngDrinks(req.query, (err, drinkData) => {
+    if (err) {
+      res.status(500).send('Error getting drink data');
+    } else {
+      // console.log('Drinky Drinky---> ', drinkData.data);
+      res.status(200).send(drinkData.data);
+    }
+  });
+});
+
 //--------------------------------------------------------------------------------------------------
 
 app.listen(port, function() {
