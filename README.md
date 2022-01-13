@@ -2,7 +2,7 @@
 
 <br/>
 
-## A cocktail receipe application
+## A cocktail recipe application
 
 <br/>
 
@@ -52,7 +52,7 @@
 <img src="ReadMeImages/mainPage.png" width="600" height="auto" alt="Shows Main Feed"/>
 </div><br><br>
 
-Designed as an intuitive interface for searching cocktail recipes using a 3rd-party API, Cocktail Compendium allows users to search cocktail receipes by drink name, ingredient or first character. Additionally users can save items to a favorited list of receipes for later review.
+Designed as an intuitive interface for searching cocktail recipes using a 3rd-party API, Cocktail Compendium allows users to search cocktail recipes by drink name, ingredient or first character. Additionally users can save items to a favorited list of recipes for later review.
 In order to created this application in under 24 hours the functionality of key user stories and deployment were prioritized in order to avoid bike-shedding and showcase a minimum viable product.
 
 <br><br>
