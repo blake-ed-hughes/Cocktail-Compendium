@@ -2,9 +2,9 @@
 
 <br/>
 
-<h2 align="center"> A cocktail receipe application </h2>
+## A cocktail receipe application
 
-<br>
+<br/>
 
 <!-- TABLE OF CONTENTS -->
 <details open="open">
@@ -36,7 +36,7 @@
 
 ### Blake Hughes - blake.ed.hughes@gmail.com
 
- <img src="ReadMeImages/TropicalHeadshot.JPG" alt="Logo" width="80" height="80">
+ <img src="ReadMeImages/TropicalHeadshot.JPG" alt="Logo" width="200" height="200">
 
 [![linkedin-shield]][blake-linkedin]
 [![github-shield]][blake-github]
@@ -80,7 +80,7 @@ To explore the project, follow the instructions below.
 
 - npm
   ```sh
-  npm install
+  npm install npm@latest -g
   ```
 
 ### Installation
