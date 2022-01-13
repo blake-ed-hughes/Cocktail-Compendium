@@ -55,7 +55,7 @@
 Designed as an intuitive interface for searching cocktail recipes using a 3rd-party API, Cocktail Compendium allows users to search cocktail receipes by drink name, ingredient or first character. Additionally users can save items to a favorited list of receipes for later review.
 In order to created this application in under 24 hours the functionality of key user stories and deployment were prioritized in order to avoid bike-shedding and showcase a minimum viable product.
 
-<br>
+<br><br>
 
 ## Tech Stack
 
@@ -65,10 +65,7 @@ In order to created this application in under 24 hours the functionality of key 
 - [Express](https://expressjs.com/)
 - [Webpack](https://webpack.js.org/)
 
-<br>
-
-
-<br>
+<br><br>
 
 <!-- GETTING STARTED -->
 
@@ -138,6 +135,8 @@ To explore the project, follow the instructions below.
 - Create a favorites page using React Router
 - Persist user items by using a DBMS
 - Create a "select random" cocktail feature and/or load a selection of random drinks upon entering the application
+
+<br><br>
 
 <!-- Contributor Links -->
 
